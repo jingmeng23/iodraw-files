@@ -24,8 +24,11 @@
         <mxCell id="edeX2xJxb9GssUdC8j7n-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="edeX2xJxb9GssUdC8j7n-9" target="edeX2xJxb9GssUdC8j7n-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edeX2xJxb9GssUdC8j7n-9" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="edeX2xJxb9GssUdC8j7n-9" value="真实数据X" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="610" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="edeX2xJxb9GssUdC8j7n-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="edeX2xJxb9GssUdC8j7n-18" target="edeX2xJxb9GssUdC8j7n-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edeX2xJxb9GssUdC8j7n-18" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;随机噪声Z&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="742" width="90" height="22" as="geometry" />
