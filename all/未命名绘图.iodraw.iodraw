@@ -32,15 +32,6 @@
         <mxCell id="edeX2xJxb9GssUdC8j7n-9" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="610" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="edeX2xJxb9GssUdC8j7n-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="edeX2xJxb9GssUdC8j7n-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="760" as="sourcePoint" />
-            <mxPoint x="260" y="710" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
