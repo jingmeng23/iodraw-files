@@ -18,6 +18,10 @@
         <mxCell id="edeX2xJxb9GssUdC8j7n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="edeX2xJxb9GssUdC8j7n-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="720" />
+              <mxPoint x="491" y="720" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edeX2xJxb9GssUdC8j7n-7" value="生成数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
