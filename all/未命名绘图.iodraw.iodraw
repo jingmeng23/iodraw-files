@@ -30,8 +30,8 @@
         <mxCell id="edeX2xJxb9GssUdC8j7n-9" value="真实数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="610" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="edeX2xJxb9GssUdC8j7n-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="edeX2xJxb9GssUdC8j7n-18" value="生成数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="738" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
