@@ -190,25 +190,22 @@
           <mxGeometry x="589" y="116" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="616" y="36" width="26" height="164" as="geometry" />
+          <mxGeometry x="666" y="27" width="26" height="164" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="623" y="46" width="12" height="12" as="geometry" />
+          <mxGeometry x="673" y="37" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="623" y="70" width="12" height="12" as="geometry" />
+          <mxGeometry x="673" y="61" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="623" y="94" width="12" height="12" as="geometry" />
+          <mxGeometry x="673" y="85" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="623" y="115" width="12" height="12" as="geometry" />
+          <mxGeometry x="673" y="106" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="623" y="155" width="12" height="12" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="623" y="177" width="12" height="12" as="geometry" />
+          <mxGeometry x="673" y="146" width="12" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
