@@ -207,7 +207,7 @@
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-73" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="114" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oMK3a_6KOmwKbcidkoKZ-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.289;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-52" target="oMK3a_6KOmwKbcidkoKZ-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="547" y="164" as="sourcePoint" />
             <mxPoint x="597" y="114" as="targetPoint" />
