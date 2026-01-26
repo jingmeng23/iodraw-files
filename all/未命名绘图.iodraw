@@ -238,9 +238,9 @@
           <mxGeometry x="231" y="98" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-87" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;输入层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="241" y="108" width="60" height="30" as="geometry" />
+          <mxGeometry x="332" y="53" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-88" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;输入层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="oMK3a_6KOmwKbcidkoKZ-88" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;卷积层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="59" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
