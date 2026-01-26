@@ -166,7 +166,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="26" width="26" height="153" as="geometry" />
+          <mxGeometry x="606" y="26" width="26" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="oMK3a_6KOmwKbcidkoKZ-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="24" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
