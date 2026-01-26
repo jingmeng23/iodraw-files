@@ -69,8 +69,13 @@
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270.14" y="95.49" width="46.86" height="46.86" as="geometry" />
         </mxCell>
+        <mxCell id="oMK3a_6KOmwKbcidkoKZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="247.05555555555554" y="103.42500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="204" y="111.92" width="8.43" height="8.43" as="geometry" />
+          <mxGeometry x="201.57" y="99.21000000000001" width="8.43" height="8.43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
