@@ -252,52 +252,10 @@
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-138" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;门控&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Helvetica&quot;&gt;Unet&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;shadow=0;perimeterSpacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="286" y="455" width="59" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-139" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;初步生成图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="499" y="508" width="56" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-140" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;自注意力分支&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="493.86" y="479" width="55" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-141" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;幻觉分支&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="460" y="532" width="54" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-144" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1.015;exitY=0.515;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;endSize=0;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-139" target="oMK3a_6KOmwKbcidkoKZ-140">
+        <mxCell id="oMK3a_6KOmwKbcidkoKZ-152" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1.009;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;endSize=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="296" y="528" as="sourcePoint" />
-            <mxPoint x="346" y="478" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-146" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;特征拼接&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="457" y="497" width="38" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-147" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;解码器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="507" y="498" width="44" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-148" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.011;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;endSize=0;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-140" target="oMK3a_6KOmwKbcidkoKZ-146">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452" y="484" as="sourcePoint" />
-            <mxPoint x="463" y="459" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-149" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.996;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;endSize=0;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-141" target="oMK3a_6KOmwKbcidkoKZ-146">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452" y="530" as="sourcePoint" />
-            <mxPoint x="463" y="505" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-150" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1.011;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;endSize=0;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-146" target="oMK3a_6KOmwKbcidkoKZ-147">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408" y="542" as="sourcePoint" />
-            <mxPoint x="419" y="517" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-151" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;生成最终图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="511.79" y="533" width="51" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-152" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1.009;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;endSize=0;" edge="1" parent="1" source="oMK3a_6KOmwKbcidkoKZ-147" target="oMK3a_6KOmwKbcidkoKZ-151">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="505" y="518" as="sourcePoint" />
-            <mxPoint x="519" y="518" as="targetPoint" />
+            <mxPoint x="551.396" y="508.39300000000003" as="sourcePoint" />
+            <mxPoint x="512.402" y="544.001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oMK3a_6KOmwKbcidkoKZ-153" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;初步生成图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;shadow=0;perimeterSpacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
