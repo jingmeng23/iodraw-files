@@ -303,7 +303,7 @@
             <mxPoint x="419" y="517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oMK3a_6KOmwKbcidkoKZ-151" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;解码器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="oMK3a_6KOmwKbcidkoKZ-151" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="562" y="497" width="44" height="19" as="geometry" />
         </mxCell>
       </root>
