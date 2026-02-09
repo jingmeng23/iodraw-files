@@ -82,7 +82,7 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-49" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ChAtt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HjRDIuNIBzcVWUoxWGPT-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#36bbcd;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HjRDIuNIBzcVWUoxWGPT-47" target="HjRDIuNIBzcVWUoxWGPT-49">
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#36bbcd;exitX=0.032;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HjRDIuNIBzcVWUoxWGPT-47" target="HjRDIuNIBzcVWUoxWGPT-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="420" as="sourcePoint" />
             <mxPoint x="90" y="370" as="targetPoint" />
