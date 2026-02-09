@@ -265,7 +265,7 @@
           <mxGeometry x="296.5" y="124" width="115.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-139" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Hall&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="280" y="190" width="40" height="70" as="geometry" />
+          <mxGeometry x="280" y="204" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-140" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.036;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#8ad6e1;" edge="1" parent="1" source="HjRDIuNIBzcVWUoxWGPT-136" target="HjRDIuNIBzcVWUoxWGPT-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -284,6 +284,9 @@
             <mxPoint x="220" y="370" as="sourcePoint" />
             <mxPoint x="270" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-143" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;拼&lt;font style=&quot;font-size: 16px;&quot;&gt;接&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="492" y="418" width="40" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
