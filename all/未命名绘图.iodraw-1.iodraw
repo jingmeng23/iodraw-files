@@ -172,6 +172,12 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#1ab2c7;" vertex="1" parent="1">
           <mxGeometry x="360" y="394.5" width="300" height="177" as="geometry" />
         </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-102" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="HjRDIuNIBzcVWUoxWGPT-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="500" as="sourcePoint" />
+            <mxPoint x="270" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
