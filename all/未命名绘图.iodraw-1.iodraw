@@ -201,15 +201,14 @@
             <mxPoint x="270" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjRDIuNIBzcVWUoxWGPT-113" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="500" as="sourcePoint" />
-            <mxPoint x="270" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="500" />
-              <mxPoint x="220" y="450" />
-            </Array>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-114" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="290" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-115" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HjRDIuNIBzcVWUoxWGPT-114">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
