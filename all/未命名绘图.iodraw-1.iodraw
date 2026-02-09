@@ -237,6 +237,12 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-127" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3x3空洞卷积&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="748" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-128" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="190" y="738" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="748" width="40" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
