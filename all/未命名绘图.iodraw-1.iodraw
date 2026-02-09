@@ -241,7 +241,7 @@
           <mxGeometry x="457.5" y="326.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-126" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;空间注意力SpAtt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="449" y="537" width="148" height="30" as="geometry" />
+          <mxGeometry x="449" y="534" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-127" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3x3空洞卷积&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="236" y="678" width="110" height="30" as="geometry" />
