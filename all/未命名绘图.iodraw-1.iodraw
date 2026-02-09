@@ -201,15 +201,6 @@
             <mxPoint x="270" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjRDIuNIBzcVWUoxWGPT-112" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="160" y="480" as="sourcePoint" />
-            <mxPoint x="320" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
