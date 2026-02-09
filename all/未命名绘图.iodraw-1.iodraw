@@ -145,6 +145,9 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="448" width="40" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="30" y="738" width="40" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
