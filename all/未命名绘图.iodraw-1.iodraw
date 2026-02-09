@@ -153,13 +153,13 @@
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-95" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HjRDIuNIBzcVWUoxWGPT-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="445" as="sourcePoint" />
+            <mxPoint x="380" y="445" as="sourcePoint" />
             <mxPoint x="270" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HjRDIuNIBzcVWUoxWGPT-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="520" as="sourcePoint" />
             <mxPoint x="400" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
