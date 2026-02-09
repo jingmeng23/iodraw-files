@@ -309,6 +309,9 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-148" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;解码器&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#0050ef;" vertex="1" parent="1">
           <mxGeometry x="595.75" y="239" width="56.5" height="83.5" as="geometry" />
         </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-152" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;粗生成图像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="368" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
