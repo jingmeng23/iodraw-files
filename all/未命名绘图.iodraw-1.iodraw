@@ -303,8 +303,8 @@
             <mxPoint x="270" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HjRDIuNIBzcVWUoxWGPT-148" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-148" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="634" y="220" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
