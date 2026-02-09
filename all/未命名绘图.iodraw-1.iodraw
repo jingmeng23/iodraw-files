@@ -318,6 +318,9 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-154" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="629.75" y="683" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-155" value="元素级相乘函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="629" y="674" width="102" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
