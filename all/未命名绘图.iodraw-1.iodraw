@@ -124,6 +124,9 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-73" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;通道最大值聚合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="740" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjRDIuNIBzcVWUoxWGPT-77" target="HjRDIuNIBzcVWUoxWGPT-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-77" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;拼&lt;font style=&quot;font-size: 16px;&quot;&gt;接&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="470" y="408" width="40" height="150" as="geometry" />
         </mxCell>
@@ -140,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="619" width="40" height="70" as="geometry" />
+          <mxGeometry x="540" y="448" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
