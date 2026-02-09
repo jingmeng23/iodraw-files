@@ -124,7 +124,7 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-73" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;通道最大值聚合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="740" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HjRDIuNIBzcVWUoxWGPT-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-77" value="拼&lt;font style=&quot;font-size: 15px;&quot;&gt;接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="470" y="440" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
