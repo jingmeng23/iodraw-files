@@ -231,8 +231,8 @@
         <mxCell id="HjRDIuNIBzcVWUoxWGPT-120" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="326.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HjRDIuNIBzcVWUoxWGPT-126" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="60" height="30" as="geometry" />
+        <mxCell id="HjRDIuNIBzcVWUoxWGPT-126" value="空间注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="462" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
