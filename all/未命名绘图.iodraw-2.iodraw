@@ -94,6 +94,9 @@
         <mxCell id="KmpMW9ZU9OrrjblP52lx-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;未来展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="703" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KmpMW9ZU9OrrjblP52lx-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="70" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
