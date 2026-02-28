@@ -11,7 +11,7 @@
           <mxGeometry x="25" y="270" width="830" height="95" as="geometry" />
         </mxCell>
         <mxCell id="KmpMW9ZU9OrrjblP52lx-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于深度学习和混沌系统的医学图像隐私保护研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="72" width="440" height="30" as="geometry" />
+          <mxGeometry x="240" y="50" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KmpMW9ZU9OrrjblP52lx-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主要研究内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="196" width="110" height="30" as="geometry" />
@@ -97,8 +97,14 @@
         <mxCell id="KmpMW9ZU9OrrjblP52lx-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=19;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="103" width="20" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="KmpMW9ZU9OrrjblP52lx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=22;entryDy=6;entryPerimeter=0;" edge="1" parent="1" source="KmpMW9ZU9OrrjblP52lx-43" target="KmpMW9ZU9OrrjblP52lx-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KmpMW9ZU9OrrjblP52lx-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=19;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="113" width="20" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KmpMW9ZU9OrrjblP52lx-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=19;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="123" width="20" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KmpMW9ZU9OrrjblP52lx-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=19;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="133" width="20" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
