@@ -41,10 +41,10 @@
           <mxGeometry x="190" y="370" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KmpMW9ZU9OrrjblP52lx-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DNA编码技术及运算规则&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="230" height="30" as="geometry" />
+          <mxGeometry x="530" y="370" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KmpMW9ZU9OrrjblP52lx-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;图像加密技术&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="370" width="200" height="30" as="geometry" />
+          <mxGeometry x="700" y="370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
