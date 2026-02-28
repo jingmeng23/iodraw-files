@@ -49,7 +49,7 @@
         <mxCell id="KmpMW9ZU9OrrjblP52lx-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;图像加密技术&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KmpMW9ZU9OrrjblP52lx-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MGLFS-GAN&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KmpMW9ZU9OrrjblP52lx-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MGLFS-GAN网络结构设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="480" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KmpMW9ZU9OrrjblP52lx-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;第三章 基于掩码引导局部生成的人脸隐私保护方案MGLFS-GAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
