@@ -27,7 +27,7 @@
         <mxCell id="qGAM6alDOykV7Khn5Fo8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qGAM6alDOykV7Khn5Fo8-11" target="qGAM6alDOykV7Khn5Fo8-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGAM6alDOykV7Khn5Fo8-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户密钥哈希值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qGAM6alDOykV7Khn5Fo8-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户密钥哈希值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="527" y="223.38000000000002" width="99" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SAH-384&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -36,7 +36,7 @@
         <mxCell id="qGAM6alDOykV7Khn5Fo8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qGAM6alDOykV7Khn5Fo8-15" target="qGAM6alDOykV7Khn5Fo8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGAM6alDOykV7Khn5Fo8-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌系统初始条件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qGAM6alDOykV7Khn5Fo8-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌系统初始条件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="428" y="340" width="99" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGAM6alDOykV7Khn5Fo8-17" target="qGAM6alDOykV7Khn5Fo8-23">
