@@ -99,8 +99,8 @@
         <mxCell id="qGAM6alDOykV7Khn5Fo8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.41;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qGAM6alDOykV7Khn5Fo8-19" target="qGAM6alDOykV7Khn5Fo8-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qGAM6alDOykV7Khn5Fo8-46" value="&lt;font size=&quot;1&quot; color=&quot;#060a26&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;HMAC&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="188" width="60" height="30" as="geometry" />
+        <mxCell id="qGAM6alDOykV7Khn5Fo8-46" value="&lt;font size=&quot;1&quot; color=&quot;#060a26&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;HMAC&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="218" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
