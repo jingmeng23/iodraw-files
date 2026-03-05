@@ -71,11 +71,8 @@
         <mxCell id="qGAM6alDOykV7Khn5Fo8-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌序列&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Z&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="481" y="501" width="99" height="51.08" as="geometry" />
         </mxCell>
-        <mxCell id="qGAM6alDOykV7Khn5Fo8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="421.5" y="556.0799999999999" as="sourcePoint" />
-            <mxPoint x="479" y="618" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="qGAM6alDOykV7Khn5Fo8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGAM6alDOykV7Khn5Fo8-21" target="qGAM6alDOykV7Khn5Fo8-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌序列&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Y&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="372" y="501" width="99" height="51.08" as="geometry" />
