@@ -65,12 +65,6 @@
         <mxCell id="qGAM6alDOykV7Khn5Fo8-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌序列&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;W&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="591" y="501" width="99" height="51.08" as="geometry" />
         </mxCell>
-        <mxCell id="qGAM6alDOykV7Khn5Fo8-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="478.1724137931035" y="615.3793103448277" as="targetPoint" />
-            <mxPoint x="530.5" y="550" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qGAM6alDOykV7Khn5Fo8-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="478.1724137931035" y="614.6896551724137" as="targetPoint" />
@@ -115,7 +109,7 @@
           <mxGeometry x="88.69" y="193" width="141.31" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌序列&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Y&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="382" y="511" width="99" height="51" as="geometry" />
+          <mxGeometry x="481" y="501.08" width="99" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
