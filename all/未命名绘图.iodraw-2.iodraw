@@ -48,7 +48,7 @@
         <mxCell id="qGAM6alDOykV7Khn5Fo8-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;W混沌序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="501" y="540" width="99" height="51.08" as="geometry" />
         </mxCell>
-        <mxCell id="qGAM6alDOykV7Khn5Fo8-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Z混沌序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qGAM6alDOykV7Khn5Fo8-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;混沌序列&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Z&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="540" width="99" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Y混沌序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
