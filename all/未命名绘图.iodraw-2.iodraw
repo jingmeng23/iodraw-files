@@ -40,7 +40,7 @@
           <mxGeometry x="428" y="340" width="99" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;X混沌序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="520" width="99" height="51.08" as="geometry" />
+          <mxGeometry x="171" y="540" width="99" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;四维chen混沌系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="610" width="439" height="51.08" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="480" y="500" width="99" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Z混沌序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="533" width="99" height="51.08" as="geometry" />
+          <mxGeometry x="290" y="540" width="80" height="51.08" as="geometry" />
         </mxCell>
         <mxCell id="qGAM6alDOykV7Khn5Fo8-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Y混沌序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="530" width="99" height="51.08" as="geometry" />
