@@ -121,6 +121,9 @@
         <mxCell id="pcIHoFjY-xRlPX_QF-FB-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=19;direction=south;notch=0;" parent="1" vertex="1">
           <mxGeometry x="431.25" y="778" width="20" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="FhKXBDgXJyBGr5yRPABb-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;图像加密与解密流程&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="603" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
